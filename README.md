@@ -52,29 +52,37 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 <h2 align="center">🎀 Tech Stack & Tools 🎀</h2>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br>
+<!-- Core Languages -->
+<img src="https://img.shields.io/badge/C-A7FFF5?style=for-the-badge&logo=c&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/C++-A7FFF5?style=for-the-badge&logo=c%2B%2B&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Python-FFB3EC?style=for-the-badge&logo=python&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Java-FFD580?style=for-the-badge&logo=java&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/JavaScript-FFE873?style=for-the-badge&logo=javascript&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/TypeScript-A7FFF5?style=for-the-badge&logo=typescript&logoColor=0B0B12" /><br>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+<!-- Web Dev -->
+<img src="https://img.shields.io/badge/HTML5-FFB3EC?style=for-the-badge&logo=html5&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/CSS3-A7FFF5?style=for-the-badge&logo=css3&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/TailwindCSS-80E8FF?style=for-the-badge&logo=tailwind-css&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Vue.js-9BF7D5?style=for-the-badge&logo=vue.js&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/React-80E8FF?style=for-the-badge&logo=react&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Node.js-A7FFF5?style=for-the-badge&logo=node.js&logoColor=0B0B12" /><br>
 
-  <!-- Interests -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6EC7?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/Linux-FFD580?style=for-the-badge&logo=linux&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Git-FFB3EC?style=for-the-badge&logo=git&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Docker-A7FFF5?style=for-the-badge&logo=docker&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/VS%20Code-80E8FF?style=for-the-badge&logo=visual-studio-code&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Postman-FFD580?style=for-the-badge&logo=postman&logoColor=0B0B12" /><br>
+
+<!-- Other Interests -->
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB3EC?style=for-the-badge&logo=tensorflow&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Backend%20Development-A7FFF5?style=for-the-badge&logo=fastapi&logoColor=0B0B12" />
+<img src="https://img.shields.io/badge/Creative%20Coding-FFD580?style=for-the-badge&logo=processing-foundation&logoColor=0B0B12" />
+
 </p>
+
 
 
 </div>
