@@ -8,7 +8,7 @@
 <h2>🌸 About Me</h2>
 
 <p align="center">
-Hey there! I’m <b>Neha</b>, the mind behind <b>MetaRev ⚡</b>.<br>
+Hey there! I’m <b>Neha</b>, the mind behind <b>MetaRev</b>.<br>
 I'm a CS student that enjoys learning new things, not just to code better but to understand how things work and how I can use that to help others.
 
 <b>What I do</b><br>
