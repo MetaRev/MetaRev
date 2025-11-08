@@ -18,7 +18,7 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 
 
 
-🧠 <b>Current focus</b><br>
+🌟 <b>Current focus</b><br>
 • Learning ML and clean code<br>
 • Learning how to break things intelligently (aka debugging)<br>
 • Building projects that are practical, purposeful, and built with intent.<br>
