@@ -47,7 +47,6 @@ I'm a CS student that enjoys learning new things, not just to code better but to
   </table>
 </div>
 
-<hr style="border: 0; height: 1px; background: #ffffff22; margin: 30px 0;" />
 
 <h2 align="center">Tech Stack & Tools</h2>
 
