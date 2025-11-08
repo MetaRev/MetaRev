@@ -24,8 +24,6 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 
 <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
 
-<hr style="border: 0; height: 1px; background: #ffffff22; margin: 30px 0;" />
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
