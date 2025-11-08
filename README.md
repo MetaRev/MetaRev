@@ -8,21 +8,17 @@
 <h2>🌸 About Me</h2>
 
 <p align="center">
-Hey there! I’m <b>Rev</b> — the chaotic calm behind <b>MetaRev ⚡</b>.<br>
-I love building things that balance <b>clean logic</b>, <b>smooth visuals</b>, and <b>just the right amount of chaos</b>.<br><br>
+Hey there! I’m <b>Neha</b>, the mind behind <b>MetaRev ⚡</b>.<br>
+I'm a CS student that enjoys learning new things, not just to code better but to understand how things work and how I can use that to help others.
 
-💻 <b>What I do</b><br>
-• I write <i>clean, expressive code</i> (most of the time 😄)<br>
-• I build <i>intuitive, aesthetic UIs</i><br>
-• I experiment with <code>C++</code>, <code>Web Dev</code>, and <code>creative tech</code><br><br>
+<b>What I do</b><br>
+I code <i>backend logic</i>, study <i>machine learning</i>, and explore <i>front-end</i> to connect it all. 
 
 🧠 <b>Current focus</b><br>
-• Blending design + development into seamless user experiences<br>
-• Learning how to break things intelligently (a.k.a. debugging)<br>
-• Creating projects that feel more like <i>art than apps</i><br><br>
+• Learning ML and clean code<br>
+• Learning how to break things intelligently (aka debugging)<br>
+• Building projects that are practical, purposeful, and built with intent.<br>
 
-☕ <b>Fun fact</b><br>
-I run on caffeine, curiosity, and controlled chaos.
-</p>
+
 
 </div>
