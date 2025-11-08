@@ -1,6 +1,6 @@
 <div align="center" style="margin:0;padding:0;">
   <img src="https://raw.githubusercontent.com/MetaRev/svg/refs/heads/main/banner.svg" width="100%" style="margin-bottom:-10px;" />
-  
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" style="margin-top:-15px; margin-bottom:-10px;" />
 </div>
 
 <div align="center" style="margin-top:-20px; padding:0;">
