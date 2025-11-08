@@ -8,8 +8,8 @@
 <h2>✨ About Me ✨</h2>
 <table align="center">
   <tr>
-    <td align="center">🌍 <b>Location</b><br>India (UTC +05:30)</td>
-    <td align="center">💻 <b>Focus</b><br>Backend, Machine Learning & Frontend</td>
+    <td align="center">🌟 <b>Location</b><br>India (UTC +05:30)</td>
+    <td align="center">🌟 <b>Focus</b><br>Backend, Machine Learning & Frontend</td>
   </tr>
 </table>
 
