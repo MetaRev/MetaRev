@@ -22,6 +22,8 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 • Learning how to break things intelligently (aka debugging)<br>
 • Building projects that are practical, purposeful, and built with intent.<br>
 
+<img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MetaRev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a7fff5&text_color=ffffff&icon_color=ffb3ec" 
