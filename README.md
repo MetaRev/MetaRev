@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
 </div>
 
+<div>
 <style>
   .about-text {
     color: var(--fgColor-default, #ccc);
