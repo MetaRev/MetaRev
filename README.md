@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/banner.svg" alt="MetaRev Banner" />
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/banner.svg" alt="MetaRev Banner" width="70%" />
 </p>
