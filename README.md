@@ -24,11 +24,26 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 
 <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MetaRev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a7fff5&text_color=ffffff&icon_color=ffb3ec" 
-    alt="MetaRev's GitHub stats" 
-    height="180px" />
-</p>
+<hr style="border: 0; height: 1px; background: #ffffff22; margin: 30px 0;" />
+
+<h2 align="center">⚡ MetaRev's GitHub Stats ⚡</h2>
+
+<div align="center">
+  <table style="border: 2px solid #ffb3ec55; border-radius: 12px; padding: 20px; background-color: #0b0b12; margin: 20px auto;">
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=MetaRev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0b12&title_color=a7fff5&text_color=ffffff&icon_color=ffb3ec"
+          height="180px" />
+      </td>
+      <td align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetaRev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0b12&title_color=ffb3ec&text_color=ffffff"
+          height="180px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 </div>
