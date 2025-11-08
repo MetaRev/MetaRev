@@ -26,7 +26,7 @@ I'm a CS student that enjoys learning new things, not just to code better but to
 
 <hr style="border: 0; height: 1px; background: #ffffff22; margin: 30px 0;" />
 
-<h2 align="center">⚡ MetaRev's GitHub Stats ⚡</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <table style="border: 2px solid #ffb3ec55; border-radius: 12px; padding: 20px; background-color: #0b0b12; margin: 20px auto;">
