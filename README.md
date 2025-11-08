@@ -1,10 +1,11 @@
 <div align="center" style="margin:0;padding:0;">
-  <img src="https://raw.githubusercontent.com/MetaRev/svg/refs/heads/main/banner.svg" width="100%" style="margin-bottom:-25px;" />
-  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/refs/heads/main/banner.svg" width="100%" style="margin-bottom:-10px;" />
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" style="margin-top:-15px; margin-bottom:-10px;" />
 </div>
-<div align="center" style="margin-bottom:-25px;">
+
+<div align="center" style="margin-top:-20px; padding:0;">
 <h2>✨ About Me ✨</h2>
-<table align="center">
+<table align="center" style="margin-top:-5px;">
   <tr>
     <td align="center">🌟 <b>Location</b><br>India (UTC +05:30)</td>
     <td align="center">🌟 <b>Focus</b><br>Backend, Machine Learning & Frontend</td>
