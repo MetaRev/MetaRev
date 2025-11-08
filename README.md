@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/MetaRev/svg/refs/heads/main/banner.svg" width="100%" style="margin-bottom:-25px;" />
   <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
 </div>
-<div align="center">
+<div align="center" style="margin-bottom:-25px;">
 <h2>✨ About Me ✨</h2>
 <table align="center">
   <tr>
