@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MetaRev/svg/refs/heads/main/banner.svg" alt="MetaRev Banner"  />
-</p>
-<p align="center" style="margin-top:-600px;">
-  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" alt="divider" width="100%" />
-</p>
+<div align="center" style="margin:0;padding:0;">
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/banner.svg" width="100%" style="margin-bottom:-25px;" />
+  <img src="https://raw.githubusercontent.com/MetaRev/svg/main/divide.svg" width="100%" />
+</div>
